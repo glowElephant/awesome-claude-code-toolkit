@@ -1013,6 +1013,8 @@ claude-code-toolkit/               850+ files
 
 ---
 
+- [Drevon](https://drevon.dev) - Mac desktop workspace for GTM engineers. Run parallel AI agents powered by Claude Code, Codex, or Copilot to build target lists, score accounts, and pull prospect intel.
+
 ## Ecosystem
 
 Notable projects, directories, and resources across the Claude Code ecosystem.
