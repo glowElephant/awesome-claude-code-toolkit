@@ -1146,6 +1146,7 @@ Notable projects, directories, and resources across the Claude Code ecosystem.
 | [omni-skills-forge](https://github.com/theihtisham/omni-skills-forge) | 11+ | Universal skill and slash-command manager for AI coding assistants. Create, share, and manage reusable skills across tools. npm: `omni-skills-forge` |
 | [cc-tempo](https://github.com/O0000-code/cc-tempo) | New | Claude Code statusline with wall-clock active work time, SubAgent speedup ratio, /clear-resilient PID timer, code-churn sparkline with trend arrow, and multi-instance detection. Bash + TypeScript, MIT. |
 | [The Froject](https://www.thefroject.com) | new | Free browser-based wizard that generates complete Claude Code workspaces for go-to-market teams (marketing, sales, customer success, HR, finance, operations). Downloads a ZIP including CLAUDE.md, context files, and pre-built skills, commands, agents, rules, hooks, and settings tailored to your role. Client-side, no backend. Plugin marketplace at [thefroject-plugins](https://github.com/bjorn-ingmanson/thefroject-plugins). |
+| [Bring Your AI](https://bringyour.ai/claude-code-to-codex) | -- | Local-first Claude Code to Codex migration path. Keeps harness files local, maps CLAUDE.md/AGENTS.md guidance and MCP config, and adds a Codex import checklist for hooks, secret refs, and non-equivalent behavior before Codex edits code. |
 
 ---
 
